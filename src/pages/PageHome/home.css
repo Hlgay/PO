@@ -1,0 +1,38 @@
+
+
+#pa, #pe, #pm{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  border: solid 3px;
+  border-color: #383e48;
+  
+}
+.links{
+    margin: 30px;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    font-size: 24px;
+   
+}
+#pa{
+   
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    
+}
+#pm{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#pe{
+
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+ /* estilo do botão de cadastro */
+ 

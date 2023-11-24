@@ -1,0 +1,13 @@
+.custom-button {
+    background-color:  #383e48;
+    color: #383e48;
+    border: none;
+    padding: 30 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+
+    cursor: pointer;
+}
+/* como faço para colocar tamanho e cor do meu botao com css, no react?*/
